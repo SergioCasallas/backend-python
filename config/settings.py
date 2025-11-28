@@ -120,7 +120,7 @@ USE_TZ = True
 
 
 CORS_ALLOWED_ORIGINS = [
-    "https://prueba-tecnica-frontend-sigma.vercel.app/",
+    "https://prueba-tecnica-frontend-sigma.vercel.app",
     "http://127.0.0.1:5173",
 ]
 
